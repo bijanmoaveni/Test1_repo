@@ -1,3 +1,3 @@
 # Deme
 
-Some Description about the project
+Some Description of the project
